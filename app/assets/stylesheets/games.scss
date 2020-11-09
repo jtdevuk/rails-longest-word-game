@@ -16,4 +16,22 @@
   border-radius: 10px;
   box-shadow: 3px 3px 3px darkgreen;
   background-color: lightgreen;
+  color: darkgreen;
+  font-weight: bold;
+}
+
+#user-word {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 500px;
+}
+
+#word {
+  font-size: 20px;
+}
+
+#user-word label {
+  font-size: 20px;
+  margin-bottom: 10px;
 }
